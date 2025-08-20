@@ -1,3 +1,4 @@
 src/sparqlunicorn_ontdoc/doc/__pycache__/*
 src/sparqlunicorn_ontdoc/export/*
 src/sparqlunicorn_ontdoc/mydownloadedtemplate/*
+data/ci-pages/*
