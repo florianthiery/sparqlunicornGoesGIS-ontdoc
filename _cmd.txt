@@ -1,0 +1,1 @@
+C:\git\fthiery-sparqlunicornGoesGIS-ontdoc\src\sparqlunicorn_ontdoc>python docgeneration.py -i ..\..\data\ci-lod.ttl -o ..\..\data\ci-pages\ -tn scrat1 --offlinecompat true
